@@ -1,0 +1,6 @@
+{
+  "name": "مزرعتي — رحلة الازدهار",
+  "description": "لعبة مزرعة ثلاثية الأبعاد تفاعلية Low Poly مع مرشد المزرعة الذكي ونظام المهام والمحاصيل",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
